@@ -1,0 +1,15 @@
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\bin\Debug\netstandard2.0\Laboratorio14.deps.json
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\bin\Debug\netstandard2.0\Laboratorio14.dll
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\Laboratorio14.csprojAssemblyReference.cache
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\Laboratorio14.AssemblyInfoInputs.cache
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\Laboratorio14.AssemblyInfo.cs
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\bin\Debug\netstandard2.0\ref\Laboratorio14.dll
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\bin\Debug\netstandard2.0\Laboratorio14.pdb
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\TodoItemPage.xaml.g.cs
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\TodoListPage.xaml.g.cs
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\Laboratorio14.dll
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\ref\Laboratorio14.dll
+C:\Users\SABRINA\source\repos\Laboratorio14\Laboratorio14\Laboratorio14\obj\Debug\netstandard2.0\Laboratorio14.pdb
